@@ -9,7 +9,7 @@ permalink: /about.html
 
 
 # **Wei Wang** <b>(<font face="kai">汪 巍</font>)</b>
-[<img src='./images/jhu_logo.png' alt="Johns Hopkins University" title="Johns Hopkins University" style='float:right; width:240px;'/>](https://www.jhu.edu)
+[<img src='{{site.baseurl}}/images/jhu_logo.png' alt="Johns Hopkins University" title="Johns Hopkins University" style='float:right; width:240px;'/>](https://www.jhu.edu)
 <font color="#1c6eb4"><i><b>2020.9 - present:</b></i></font>
 
 **Department of Physics and Astronomy**,
