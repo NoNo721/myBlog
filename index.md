@@ -7,7 +7,7 @@
 #
 layout: home
 ---
-[<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/IMG_4222.JPG' alt="Copyright © Wei Wang" title="Wei Wang" style='float:right;'/>]({{ site.url }}/about.html)
+[<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/IMG_4222.JPG' alt="Copyright © Wei Wang" title="Wei Wang" style='float:right;'/>]({{ site.url }}{{ site.baseurl }}/about.html)
 
 ![Copyright](https://img.shields.io/badge/Copyright-© Wei Wang-green.svg) &emsp;![](https://img.shields.io/badge/-All rights reserved-ff69b4.svg) 
 
@@ -15,5 +15,5 @@ layout: home
 
 <!-- Click the **cat** in the right to know more about me ! $$\Rightarrow$$-->
 
-[Click here]({{ site.url }}/about.html) to contact me. <!-- or yon can find me through the 4 small icons at the bottom of the page.-->
-**Testing** for [<b><u>Vue.js</u></b>]({{ site.url }}/dist/index) !
+[Click here]({{ site.url }}{{ site.baseurl }}/about.html) to contact me. <!-- or yon can find me through the 4 small icons at the bottom of the page.-->
+**Testing** for [<b><u>Vue.js</u></b>]({{ site.url }}{{ site.baseurl }}/dist/index) !
