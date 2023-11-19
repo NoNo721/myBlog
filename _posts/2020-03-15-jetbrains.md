@@ -102,7 +102,7 @@ target_link_libraries(magnon.exe ${EXTRA_LIBS})
 
 **注意**：如果代码显示找不到头文件，可以在 **CMakeLists.txt** 中添加 `include_directories("/PATHTO/INC")` 自行添加头文件目录。
 
-1. 首先打开 `preferences -> Build, Execution, Deployment -> Toolchains` 来找到远程服务器上的各种编译工具。点击右边界面左上角的 `+` 号添加一个除了 Default 之外的 Toolchain，选择 `Remote Host`, 可以自定义修改 `Name`，然后修改 SSH 的 `Credentials`，在弹出窗口中填入 `Host` 、`Port` (默认 22)、 `User name` 和密码。如果你的 SSH 配置比较复杂，比如有[**跳板机**]({{ site.url }}/2019/10/15/ssh.html)或者有[**秘钥文件**]({{ site.url }}/2019/09/17/server.html#ssh_key) 之类的，可以将 `Authentication type` 由 `Password` 改为 `OpenSSH config and authentication agent`，**CLion** 会自行调用本地 `~/.ssh/` 中的设置来连接服务器。
+1. 首先打开 `preferences -> Build, Execution, Deployment -> Toolchains` 来找到远程服务器上的各种编译工具。点击右边界面左上角的 `+` 号添加一个除了 Default 之外的 Toolchain，选择 `Remote Host`, 可以自定义修改 `Name`，然后修改 SSH 的 `Credentials`，在弹出窗口中填入 `Host` 、`Port` (默认 22)、 `User name` 和密码。如果你的 SSH 配置比较复杂，比如有[**跳板机**]({{ site.url }}{{ site.baseurl }}/2019/10/15/ssh.html)或者有[**秘钥文件**]({{ site.url }}{{ site.baseurl }}/2019/09/17/server.html#ssh_key) 之类的，可以将 `Authentication type` 由 `Password` 改为 `OpenSSH config and authentication agent`，**CLion** 会自行调用本地 `~/.ssh/` 中的设置来连接服务器。
 
 2. 打开 `preferences -> Build, Execution, Deployment -> CMake`，Profiles 中有一个默认的 Debug，点击右边界面左下角的 `+` 号添加，自行修改 `Name`, 一般改为 "Debug-remote"。将 `Build type` 改为 `Debug`，将 `Toolchain` 改为刚才添加的 Toolchain。
 

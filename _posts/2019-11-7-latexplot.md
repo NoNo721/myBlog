@@ -136,7 +136,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 	```
 	编译后效果如下：
 	<center class="half">
-    		<img src="/images/tikz1.png" alt="TikZ" width="400"/>
+    		<img src="./images/tikz1.png" alt="TikZ" width="400"/>
 	</center>
 
 	如果想在正文或者公式中添加标注，需要先在导言区定义一个新命令 `\tikzmark` 用于 mark 被标注的文字或者被标注的公式字母：
@@ -161,7 +161,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 	```
 	效果如下图所示：
 	<center class="half">
-    		<img src="/images/tikz2.png" alt="TikZ" />
+    		<img src="./images/tikz2.png" alt="TikZ" />
 	</center>
 	如果想对一个公式进行标注，也是类似的：
 
@@ -180,7 +180,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 	```
 	效果如下图所示：
 	<center class="half">
-    		<img src="/images/tikz3.png" alt="TikZ" width="500"/>
+    		<img src="./images/tikz3.png" alt="TikZ" width="500"/>
 	</center>
 
 ### **Inkscape 作图**

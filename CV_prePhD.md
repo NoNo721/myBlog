@@ -72,7 +72,7 @@ permalink: /cv.html
 
 &ensp;&ensp;&ensp;&ensp;**Advisor**: [**Xinliang Xu**](http://www.csrc.ac.cn/~xlxu/home.html "Research Homepage of Prof. Xinliang Xu"), Assistant Professor in Beijing Computational Science Research Center <br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;and Adjunct Professor in Department of Physics, Beijing Normal University
 
-&ensp;&ensp;&ensp;&ensp;[**Geometric Capture and Escape of a Microswimmer Colliding with an Obstacle**]({{ site.url }}/2019/08/16/CSRC_Results.html "Click to see more about this...")
+&ensp;&ensp;&ensp;&ensp;[**Geometric Capture and Escape of a Microswimmer Colliding with an Obstacle**]({{ site.url }}{{ site.baseurl }}/2019/08/16/CSRC_Results.html "Click to see more about this...")
 
 &ensp;&ensp;&ensp;&ensp; ⚙ Simulated the motion of a self-propelling microswimmer in viscous fluids through<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  numerical method.
 
@@ -164,9 +164,9 @@ National Conference (China) on Magnetic Thin Films and Nano-Magnetism (2018).
 <hr style="height:5px;" />
 
 #### **Computer Skills**:
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Adept in [**C/C++**]({{ site.url }}/2017/12/07/cppnotes.html "Click to see more about this..."), **Python**, [**LaTeX**]({{ site.url }}/2019/07/06/QM_Review-notes.html "Click to see my notes compiled by LaTeX"), **Microsoft Office**, **Origin Pro**;
+<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Adept in [**C/C++**]({{ site.url }}{{ site.baseurl }}/2017/12/07/cppnotes.html "Click to see more about this..."), **Python**, [**LaTeX**]({{ site.url }}{{ site.baseurl }}/2019/07/06/QM_Review-notes.html "Click to see my notes compiled by LaTeX"), **Microsoft Office**, **Origin Pro**;
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Frequent user of **Matlab**, **Mathematica**, **Linux** System, [**Remote Server**]({{ site.url }}/2019/09/17/server.html "Click to see more about this..."), **CUDA** (NVIDIA GPU<br>&ensp;&ensp;&ensp;&ensp; Programming) and **MPI** Programming;
+<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Frequent user of **Matlab**, **Mathematica**, **Linux** System, [**Remote Server**]({{ site.url }}{{ site.baseurl }}/2019/09/17/server.html "Click to see more about this..."), **CUDA** (NVIDIA GPU<br>&ensp;&ensp;&ensp;&ensp; Programming) and **MPI** Programming;
 
 <img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Occasional user of **R**, **COMSOL**, **Arduino** and **Adobe** softwares;
 
