@@ -31,7 +31,7 @@ tagline: "通过 CLion 和 PyCharm 来介绍如何通过 SSH 远程调试代码 
 
 [**CLion**](http://www.jetbrains.com/clion) 是 **JetBrains** 全家桶中的 **C/C++ IDE**，它其实是通过 [**CMake**](http://www.cmake.org) 来编译执行 C/C++ 代码的，如果不了解 **CMake** 如何使用，可以自行百度一下，我在这给出一个简单的 **CMakeLists.txt** 的模板：
 
-[/CMakeLists.txt](https://raw.githubusercontent.com/NoNo721/Configuration/master/CMakeLists.txt) (点击打开源代码):
+[/CMakeLists.txt](https://raw.githubusercontent.com/wwang721/Configuration/master/CMakeLists.txt) (点击打开源代码):
 
 ``` cmake
 #

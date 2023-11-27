@@ -34,7 +34,7 @@ $$\dot{x}_n=f_n(x_1,\dots,x_n)$$
 我在北京的工作围绕着一篇文献展开 [*Geometric capture and escape of a microswimmer colliding with an obstacle*](https://pubs.rsc.org/en/content/articlelanding/2015/SM/C4SM02785J#!divAbstract "The Royal Society of Chemistry, Soft Matter, 2015")，这篇文献主要模拟了当 microswimmer 在流体中和一个固定的球形 obstacle 碰撞会产生的 geometric capture 和 escape 现象。
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/Takagi.png" alt="Snapshots from the experiments of Takagi et al." title="Snapshots from the experiments of Takagi et al." width="300"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/Takagi.png" alt="Snapshots from the experiments of Takagi et al." title="Snapshots from the experiments of Takagi et al." width="300"/>
 </center>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;▲ Snapshots from the experiments of Takagi et al.
 
@@ -45,14 +45,14 @@ $$\dot{x}_n=f_n(x_1,\dots,x_n)$$
 为了分析这个现象，我们要考虑 microswimmer 在流体中的运动方程，它的速度由两部分组成，一个是 swimmer 自身的驱动速度 $$\mathbf{e}$$ , 另一部分即流场的速度 $$\mathbf{u}$$ , 故 microswimmer 的速度可以写成 $$\frac{\mathrm{d}\mathbf{x}_0}{\mathrm{d}t}=\mathbf{e}+\mathbf{u}$$ ，其中 $$\mathbf{e}$$ 的方向由 Faxén's Law 确定: $$\frac{\mathrm{d}\mathbf{e}}{\mathrm{d}t}=\mathbf{\Omega}\times\mathbf{e}$$ 。
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/colloid_swimmer.png" alt="Illustration of the colloid/swimmer system" title="Illustration of the colloid/swimmer system" width="500"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/colloid_swimmer.png" alt="Illustration of the colloid/swimmer system" title="Illustration of the colloid/swimmer system" width="500"/>
 </center>
 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;▲ Illustration of the colloid/swimmer system
 
 根据上图可将其改写成 $$h$$ 和 $$\theta$$ 的方程，便可以得到 $$\frac{\mathrm{d}h}{\mathrm{d}t}$$ 和 $$\frac{\mathrm{d}\theta}{\mathrm{d}t}$$ 的表达式，由此画出 $$h-\theta$$ 相图以寻找 fixed points.
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/theta_h-1_large.png" width="400"/><img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/theta_h-1.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/theta_h-1_large.png" width="400"/><img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/theta_h-1.png" width="400"/>
 </center> &ensp;&ensp;&ensp;▲ $$A=16, \gamma=1, \alpha=0.8$$ 时的 $$h-\theta$$ 相图 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;▲ 放大后 $$h=1$$ 附近的 $$h-\theta$$ 相图
 
 从图中可以看到红色点是解出来的 fixed point 所在，但不幸的是,它并不是一个稳定的 fixed point ，只要有一点微扰，他就会偏向其他 $$h$$ 和 $$\theta$$, 但是如果我们取 swimmer 的半径为1，仅考虑 $$h\geqslant1$$ 时的情况，就可以发现在绿点所在位置存在一个 fixed point。如果仅保留一阶小量可以推出存在临界半径 
@@ -62,7 +62,7 @@ $$A_c=\frac{128\bar{h}^5}{9\alpha^2(2-\it{\Gamma})}.$$
 通过数值计算模拟 swimmer 在流体中的 trajectories, 确实可以得到绕球和不绕球两种运动轨迹 ( GIF 文件较大，且国内网络 GitHub 加载较慢，请耐心等候)：
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/Rtra15.gif" width="380"/><img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/Rtra20.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/Rtra15.gif" width="380"/><img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/Rtra20.gif" width="400"/>
 </center> &ensp;&ensp;&ensp;▲ $$A=15, \gamma=1, \alpha=0.8$$ 时的运动轨迹 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;▲ $$A=20, \gamma=1, \alpha=0.8$$ 时的运动轨迹
 
 ## **工作结果**
@@ -70,19 +70,19 @@ $$A_c=\frac{128\bar{h}^5}{9\alpha^2(2-\it{\Gamma})}.$$
 利用CSRC的高性能服务器我们可以进行大量数据的计算，在这里展示部分计算结果：
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/contour2.png" width="400"/><img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/dh_dt.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/contour2.png" width="400"/><img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/dh_dt.png" width="400"/>
 </center> &ensp;▲ 不同 $$A$$ 和入射纵坐标 $$b$$ 对出射角 $$\theta$$ 的影响 &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ▲ 径向速度 $$\mathrm{d}h/\mathrm{d}t$$ 理论和实际值的差别
 
 最后画出 microswimmer 整个运动过程中 $$h-\theta$$ 随时间的变化 ( GIF 文件较大，且国内网络 GitHub 加载较慢，请耐心等候):
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/b%3D0.1.gif" width="400"/><img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/b%3D12.gif" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/b%3D0.1.gif" width="400"/><img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/b%3D12.gif" width="400"/>
 </center> &ensp;▲ $$b=0.1$$ 时运动轨迹和 $$h-\theta$$ 随时间的变化情况&ensp; ▲ $$b=12$$ 时运动轨迹和 $$h-\theta$$ 随时间的变化情况
 <br><br>
 为了更清楚的显示趋势，上图中的 vector 在 $$\theta$$ 方向的分量被放大了，所以 $$h-\theta$$ 曲线的切线方向和 vector 的方向没有重合。下面给出没有 scale 前的图，并用红色箭头标出切线方向，可以看到曲线的切线方向和 vector 方向的确是重合的：
 
 <center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/scale1.png" width="400"/><img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/scale2.png" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/scale1.png" width="400"/><img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/scale2.png" width="400"/>
 </center>
 &ensp;&ensp;&ensp;&ensp;&ensp;▲ $$t=11$$ 时运动轨迹和 $$h-\theta$$ 的变化情况&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; ▲ $$t=24.8$$ 时运动轨迹和 $$h-\theta$$ 的变化情况
 <br><br>

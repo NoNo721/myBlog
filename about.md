@@ -30,13 +30,13 @@ permalink: /about.html
 
 <hr style="height:5px;" />
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**School of Physics Science and Engineering, Tongji University,** Shanghai
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**School of Physics Science and Engineering, Tongji University,** Shanghai
 
-[<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/tongjilogo.jpeg' alt="Tongji University" title="Tongji University" style='float:right; width:180px;'/>](http://www.tongji.edu.cn)
+[<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/tongjilogo.jpeg' alt="Tongji University" title="Tongji University" style='float:right; width:180px;'/>](http://www.tongji.edu.cn)
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Bachelor of Science in Physics**, Jul. 2020
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Bachelor of Science in Physics**, Jul. 2020
 
-<!--<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Outstanding Graduate of Shanghai City**  (*summa cum laude*)-->
+<!--<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Outstanding Graduate of Shanghai City**  (*summa cum laude*)-->
 
 &emsp;
 
@@ -49,11 +49,11 @@ permalink: /about.html
 
 <hr>
 
-[![website](https://img.shields.io/badge/version-0.1+-green.svg)](https://nono721.github.io/myBlog)
+[![website](https://img.shields.io/badge/version-0.1+-green.svg)](https://wwang721.github.io/myBlog)
 
 Project|Build Status
 ---|---
-Blog|[![Blog](https://img.shields.io/badge/build-0.1+-lightgrey.svg)](https://nono721.github.io/myBlog) &emsp;![Blog](https://img.shields.io/badge/Markdown-unknown-red.svg) 
+Blog|[![Blog](https://img.shields.io/badge/build-0.1+-lightgrey.svg)](https://wwang721.github.io/myBlog) &emsp;![Blog](https://img.shields.io/badge/Markdown-unknown-red.svg) 
 Jekyll|[![Jekyll](https://img.shields.io/badge/Jekyll-3.8+-brightgreen.svg)](https://jekyllrb.com) &emsp;![Blog](https://img.shields.io/badge/HTML-unknown-ff69b4.svg) 
 
 &ensp;
@@ -68,6 +68,6 @@ Jekyll|[![Jekyll](https://img.shields.io/badge/Jekyll-3.8+-brightgreen.svg)](htt
 
 &ensp;
 
-[<b><u>Go to the Home Page</u></b>]({{ site.url }}{{ site.baseurl }})
+[<b><u>Go to the Home Page</u></b>]({{ site.baseurl }}/)
 
 &ensp;

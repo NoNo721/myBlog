@@ -16,12 +16,12 @@ tagline: "My C/C++ Notes..."
 
 **Note**: If your browser can't preview the file, please [clik here to see the download link](#download "Download").
 <hr style="height:5px;" />
-<embed src="https://raw.githubusercontent.com/NoNo721/Memo/master/cppNotes.pdf" width="833" height="1175" >
+<embed src="https://raw.githubusercontent.com/wwang721/Memo/master/cppNotes.pdf" width="833" height="1175" >
 <hr style="height:5px;" />
 
 ### Download<span id="download"></span>
 
-* [**点击下载**](https://raw.githubusercontent.com/NoNo721/Memo/master/cppNotes.pdf "https://raw.githubusercontent.com/NoNo721/Memo/master/cppNotes.pdf") &ensp;( 请在 <font color="#26975b"><b>电脑或手机浏览器</b></font> 中打开链接下载! )
+* [**点击下载**](https://raw.githubusercontent.com/wwang721/Memo/master/cppNotes.pdf "https://raw.githubusercontent.com/wwang721/Memo/master/cppNotes.pdf") &ensp;( 请在 <font color="#26975b"><b>电脑或手机浏览器</b></font> 中打开链接下载! )
 
 &ensp;
 

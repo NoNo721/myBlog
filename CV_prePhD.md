@@ -31,15 +31,15 @@ permalink: /cv.html
 
 <hr style="height:5px;" />
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**School of Physics Science and Engineering, Tongji University,** Shanghai, P.  R. China.
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**School of Physics Science and Engineering, Tongji University,** Shanghai, P.  R. China.
 
-[<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/tongjilogo.jpeg' alt="Tongji University" title="Tongji University" style='float:right; width:180px;'/>](http://www.tongji.edu.cn)
+[<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/tongjilogo.jpeg' alt="Tongji University" title="Tongji University" style='float:right; width:180px;'/>](http://www.tongji.edu.cn)
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Bachelor of Science in Physics**, Jul. 2020.
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Bachelor of Science in Physics**, Jul. 2020.
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Outstanding Graduate of Shanghai City**  (*summa cum laude*).
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Outstanding Graduate of Shanghai City**  (*summa cum laude*).
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Standardized English Tests**:
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Standardized English Tests**:
 
  + **TOEFL**: 105 / 120 ( Reading: 30; Listening: 29; Speaking: 22; Writing: 24 )
 
@@ -135,7 +135,7 @@ and<br>&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; when it could successfully esc
 1. Tao Liu, <u><b>Wei Wang *</b></u>, Jianwei Zhang, “*Collective induced antidiffusion effect and general magnon Boltzmann transport theory* ”, [**Phys. Rev. B** 99, 214407 (2019)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.99.214407 "click").
 <span id="MarchMeeting"></span>
 
-2. <u><b>Wei Wang *</b></u>, Tao Liu, Yuheng Li, and Jianwei Zhang, “[*The H field dependence of magnon diffusion length basing on Boltzmann transport methods*](https://ui.adsabs.harvard.edu/abs/2019APS..MARG70144W/abstract) ”, [Poster](https://raw.githubusercontent.com/NoNo721/Memo/master/poster.pdf "Download the Poster"), [**APS March Meeting 2019**, Mar. 2019](http://meetings.aps.org/Meeting/MAR19/Session/G70.144 "click").
+2. <u><b>Wei Wang *</b></u>, Tao Liu, Yuheng Li, and Jianwei Zhang, “[*The H field dependence of magnon diffusion length basing on Boltzmann transport methods*](https://ui.adsabs.harvard.edu/abs/2019APS..MARG70144W/abstract) ”, [Poster](https://raw.githubusercontent.com/wwang721/Memo/master/poster.pdf "Download the Poster"), [**APS March Meeting 2019**, Mar. 2019](http://meetings.aps.org/Meeting/MAR19/Session/G70.144 "click").
 
 3. Tao Liu, <u><b>Wei Wang*</b></u>, and Jianwei Zhang, *Magnon Transport Equation under the Action of Magnetic Field and Anisotropy Field*, The 10th
 National Conference (China) on Magnetic Thin Films and Nano-Magnetism (2018).
@@ -164,27 +164,27 @@ National Conference (China) on Magnetic Thin Films and Nano-Magnetism (2018).
 <hr style="height:5px;" />
 
 #### **Computer Skills**:
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Adept in [**C/C++**]({{ site.url }}{{ site.baseurl }}/2017/12/07/cppnotes.html "Click to see more about this..."), **Python**, [**LaTeX**]({{ site.url }}{{ site.baseurl }}/2019/07/06/QM_Review-notes.html "Click to see my notes compiled by LaTeX"), **Microsoft Office**, **Origin Pro**;
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Adept in [**C/C++**]({{ site.url }}{{ site.baseurl }}/2017/12/07/cppnotes.html "Click to see more about this..."), **Python**, [**LaTeX**]({{ site.url }}{{ site.baseurl }}/2019/07/06/QM_Review-notes.html "Click to see my notes compiled by LaTeX"), **Microsoft Office**, **Origin Pro**;
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Frequent user of **Matlab**, **Mathematica**, **Linux** System, [**Remote Server**]({{ site.url }}{{ site.baseurl }}/2019/09/17/server.html "Click to see more about this..."), **CUDA** (NVIDIA GPU<br>&ensp;&ensp;&ensp;&ensp; Programming) and **MPI** Programming;
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Frequent user of **Matlab**, **Mathematica**, **Linux** System, [**Remote Server**]({{ site.url }}{{ site.baseurl }}/2019/09/17/server.html "Click to see more about this..."), **CUDA** (NVIDIA GPU<br>&ensp;&ensp;&ensp;&ensp; Programming) and **MPI** Programming;
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Occasional user of **R**, **COMSOL**, **Arduino** and **Adobe** softwares;
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Occasional user of **R**, **COMSOL**, **Arduino** and **Adobe** softwares;
 
 #### **Club/Activities**:
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Traditional Chinese Calligraphy** Club of Tongji University;
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp;**Traditional Chinese Calligraphy** Club of Tongji University;
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Member of the **Traditional Loong Dancing Club** of Tongji University (Our team had <br>&ensp;&ensp;&ensp;&ensp; performed the
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; Member of the **Traditional Loong Dancing Club** of Tongji University (Our team had <br>&ensp;&ensp;&ensp;&ensp; performed the
 Loong Dancing at the opening ceremony of the School Sports Meeting of <br>&ensp;&ensp;&ensp;&ensp; Tongji University);
 
 #### **Hobbies**:
 
 * **Traditional Chinese Calligraphy**, Badminton;
 * Table tennis (Pingpong), **Drawing**, Video Games;
-* **Coding & Debugging** 😜 (More in my **GitHub** profile: <https://github.com/NoNo721>);
+* **Coding & Debugging** 😜 (More in my **GitHub** profile: <https://github.com/wwang721>);
 
 &emsp;&emsp;...
 
 #### **More**:
 
-<img src='https://raw.githubusercontent.com/NoNo721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; [<b><u>Go to the Home Page</u></b>]({{ site.url }}{{ site.baseurl }}) &emsp;🎉 🎉 🎉 
+<img src='https://raw.githubusercontent.com/wwang721/Pictures/master/arrow.png' alt="Wei Wang's Photo" title="right arrow" style='float:left; width:30px;height:10 px'/>&ensp; [<b><u>Go to the Home Page</u></b>]({{ site.url }}{{ site.baseurl }}) &emsp;🎉 🎉 🎉 

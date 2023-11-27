@@ -64,7 +64,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 	```
 	将其编译后生成的图像：
 	<center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/tikz1.png" alt="TikZ" width="500"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/tikz1.png" alt="TikZ" width="500"/>
 
 2. 长方体：
 
@@ -112,7 +112,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 	```
 	将其编译后生成的图像和教科书上几乎一模一样：
 	<center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/tikz2.png" alt="TikZ" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/tikz2.png" alt="TikZ" width="400"/>
 
 3. 对正文或者公式进行标注：
 
@@ -193,7 +193,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 `$\int_0^\infty x\mathrm{d}x=0$`，保存图像时选择 **PDF** 格式，就会跳出一个选项框，其中的 `文字输出选项` 选择 `忽略 PDF 中的文本并创建 LaTeX 文件`，就会生成 `xxx.pdf` 和 `xxx.pdf_tex` 两个文件。
 
 	<center class="half">
-	    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/inkscape1.png" alt="Illustration of the colloid/swimmer system" title="Inkscape" width="300"/>
+	    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/inkscape1.png" alt="Illustration of the colloid/swimmer system" title="Inkscape" width="300"/>
 
 	<br><br>
 
@@ -224,7 +224,7 @@ tagline: "简单介绍 2 种 LaTeX 作图方法..."
 	```
 	其中 `xxx` 是图像文件名 (不带后缀) ，编译后图像文件中的 $$\LaTeX$$ 表达式就会自动被渲染在图像上，如下图所示：
 	<center class="half">
-    <img src="https://raw.githubusercontent.com/NoNo721/Pictures/master/Jekyll/inkscape2.png" alt="Illustration of the colloid/swimmer system" title="Inkscape" width="400"/>
+    <img src="https://raw.githubusercontent.com/wwang721/Pictures/master/Jekyll/inkscape2.png" alt="Illustration of the colloid/swimmer system" title="Inkscape" width="400"/>
 
 ### **结语**
 
