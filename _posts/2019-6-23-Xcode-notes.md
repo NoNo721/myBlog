@@ -66,7 +66,7 @@ tagline: "My Xcode Notes."
 </center>
 
 <center class="half">
-    <img src="https://nono721-1300921342.cos.ap-shanghai.myqcloud.com/WechatPay.png" width="251" style="margin-right:10px;margin-left:10px"/><img src="https://nono721-1300921342.cos.ap-shanghai.myqcloud.com/AliPay.png" width="250" style="margin-right:10px;margin-left:10px"/>
+    <img src="{{ site.baseurl }}/images/WechatPay.png" width="251" style="margin-right:10px;margin-left:10px"/><img src="{{ site.baseurl }}/images/AliPay.png" width="250" style="margin-right:10px;margin-left:10px"/>
 </center>
 
 &ensp;
